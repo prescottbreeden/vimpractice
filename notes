@@ -18,9 +18,13 @@ NUMBERED LINES -> :set nu
 RULER -> :set ruler!
 
 
+Deleting text:
 
+d + motion -> delete everything in path of motion
 
+e.g. dw, d3w, d0, d$, dG
 
+DOT (.) -> repeats previous command
 
 
 //
