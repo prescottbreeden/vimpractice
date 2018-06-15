@@ -1,0 +1,26 @@
+VIM MASTERCLASS NOTES:
+
+(do not use caps locks in vim... kek)
+
+Navigation:
+
+BY WORD -> w W b B -> moving around by word 
+LINE -> (end)$  (start)^
+DOWN PAGE -> ctrl-f
+UP PAGE -> ctrl-b
+
+
+
+
+Interface: 
+
+NUMBERED LINES -> :set nu 
+RULER -> :set ruler!
+
+
+
+
+
+
+
+//
