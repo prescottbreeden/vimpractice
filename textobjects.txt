@@ -1,14 +1,13 @@
-This is a sentence comprised of many words.  This is another sentence. A 
-paragraph is made up of multiple sentences.  Just like this one!
+Just like this one!
 
 This is also paragraph.
 No only is it made up of multiple sentences, it's made up of multiple lines.
 This is the last line in this paragraph.
 
-colors = ['red', 'green', 'blue']
-print(colors)
-<html>
-<p>This is <strong>so, so, very</strong> cool!</p>
+colors = [ new stuff here ]
+print('that is awesome')
+<h1 class='vim-rocks'>
+<p>This is <b> so </b> cool!</p>
 <i_made_this_up>There is text here.</i_made_this_up>
 
 scores = {
