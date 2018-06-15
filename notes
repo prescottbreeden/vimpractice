@@ -27,4 +27,13 @@ e.g. dw, d3w, d0, d$, dG
 DOT (.) -> repeats previous command
 
 
+
+Registers:
+
+:reg -> look in register
+unamed = ""
+named = "variable (e.g. "a "b "c "z)
+-- use capital letter to append to data already in register (e.g. "Ayy)
+
+
 //
