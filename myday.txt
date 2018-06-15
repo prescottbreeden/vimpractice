@@ -6,3 +6,4 @@ things I'm grateful for:
 1. terminals
 2. coffee
 3. more coffee
+4. stack overflow
