@@ -21,3 +21,7 @@ You can even get help with :help.
 The short version of the :help command is :h
 
 To switch between the help window and the editing window, use CTRL-W CTRL-W
+
+ctrl ] -> takes you to the help info of whatever keyword is under the cursor
+
+ctrl i and ctrl o to jump back and forth between searches
