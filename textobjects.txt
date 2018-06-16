@@ -11,13 +11,14 @@ print('that is awesome')
 <i_made_this_up>There is text here.</i_made_this_up>
 
 scores = {
-  'boars': 6, 
-  'saints': 7,
-  'bandits': 0
+  'lions': true,
+  'tigers': true,
+  'bears': true,
+  'oh my': true
 }
 
-BACKUP_SERVER="deepfreeze01"
-MAIL_SERVER='mail13'
+BACKUP_SERVER="rubber_baby_buggy_bumpers"
+MAIL_SERVER='omg I would have never guessed it...'
 HOST=`uname -n`
 
 This training is provided by LinuxTrainingAcademy.com.
